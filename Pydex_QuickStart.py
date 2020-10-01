@@ -79,5 +79,3 @@ for i in range(3):
     designer_1.show_plots()
 
     #hello tests
-
-    #test git diff
