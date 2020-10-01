@@ -42,7 +42,6 @@ designer_1.plot_optimal_controls(non_opt_candidates=True)
 
 designer_1.show_plots()
 
-
 #Iterate
 for i in range(3):
     finalcandidates = []
@@ -80,3 +79,5 @@ for i in range(3):
     designer_1.show_plots()
 
     #hello tests
+
+    #test git diff
